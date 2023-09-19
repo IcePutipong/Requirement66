@@ -1,5 +1,9 @@
 
+### DOCs Google for Work
+https://docs.google.com/document/d/16mSgNqAsaiIBayZxY_Pj8jIO4Lx8s0cCZ6ETj1Sa3DQ/edit?usp=sharing
+
 ![User juorney](UserJourney.png)
+![DocFile_for_work](Document_requirement+prioritize_requirement.docx)
 Claims Submission and Tracking:
 Implement a user-friendly claims submission and tracking system within the app. Travelers should be able to easily submit claims, upload required documentation (e.g., receipts, medical reports), and track the status of their claims in real-time. A streamlined claims process enhances the overall user experience and builds trust with policyholders.
 
@@ -23,13 +27,13 @@ SRS-007: System receive approval from company
 SRS-008: System notified that money has been sent.
 
 ### UseCase Diagram
-![UseCase Diagram](Use_case_diagram.pdf)
+![UseCase Diagram](Activity_and_UC_Diagram_.docx)
 
 ### UseCase Description
-![UseCase Description](UseCase_Description.pdf) 
+![UseCase Description](UsecaseDescription.docx) 
 
 ### Activity Diagram
-![Activity Diagram](Activity_diagram.pdf)
+![Activity Diagram](Activity_and_UC_Diagram_.docx)
 
 ### Non-functional Requirement
 1.Performance : 
@@ -58,4 +62,6 @@ SRS-008: System notified that money has been sent.
 Link : ( https://www.figma.com/file/4EM1nM9EkyVaAFBGC1kmZC/Untitled?type=design&node-id=3-2&mode=design&t=NRO4t85HCUOBiUTc-0 )
 
 ![Wireframe](Wireframe.png)
+![DocFile_for_work](Document_requirement+prioritize_requirement.docx)
 ![Prototype](Prototype.png)
+![Docfile_for_work](Document_requirement+prioritize_requirement.docx)
